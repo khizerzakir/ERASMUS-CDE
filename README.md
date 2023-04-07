@@ -1,2 +1,2 @@
-# ERASMUS-CDE
-This repo demonstrate all the academic projects completed as the CDE Masters Student
+# A database backend for a Webgis application
+This repo demonstrate the development of a database to support a webgis application. 
